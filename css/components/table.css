@@ -2,9 +2,13 @@ table {
     border-spacing: 0 1rem;
 }
 
-thead {}
+thead {
 
-thead tr {}
+}
+
+thead tr {
+    
+}
 
 thead td {
     padding: 1rem;
